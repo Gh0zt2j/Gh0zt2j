@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 <!--
 **Gh0zt2j/Gh0zt2j** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
